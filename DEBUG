@@ -1,0 +1,5 @@
+hargapack = 3000
+namapack = "ssp_10_pack"
+MinItemPack = 50
+maxbuy = 10
+iditempack = {5706}
